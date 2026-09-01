@@ -1,0 +1,7 @@
+{
+  "name": "VELTRIX",
+  "description": "Professional web-based utility platform featuring high-precision document scanning, developer workspaces, and client-side data engines.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
